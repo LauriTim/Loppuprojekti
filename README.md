@@ -1,1 +1,1 @@
-**Tämä repo sisältää "ohjelmistokehittämisen työkalut" kurssin lopputyön**
+**Tämä repo sisältää "ohjelmistokehittämisen työkalut" kurssin lopputyön lauri_timlin.md**
